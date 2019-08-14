@@ -3,40 +3,33 @@
 
 body {
 	font-family: 'Sarabun', sans-serif;
-	font-size: 18px;
-	background-color: #282c38;
-	color: #AAAAAA
 	}
 
-h1 {
-	color: #cccccc
+div.jumbotron {
+	background-color: #1f2833;
+	color: #eeeeee;
 }
 
-b {
-	color: #CCCCCC
+h1 {
+	font-family: 'Kanit', sans-serif;
+}
+
+
+h2 {
+	font-family: 'Prompt', sans-serif;
+}
+
+h4 {
+	font-family: 'Prompt', sans-serif;
+}
+
+h6 {
+	font-family: 'Prompt', sans-serif;
 }
 
 th {
-	color: #CCCCCC
+	font-family: 'Prompt', sans-serif;
 }
-
-a {
-	color: #61afef
-}
-
-code {
-	color: #ef3041
-}
-
-h2 {
-	color: #CCCCCC
-}
-
-div .row {
-	border-radius: 20px;
-	background: rgba(0, 0, 0, 0.3);
-	padding: 30px;
-	}
 	
 
 	
